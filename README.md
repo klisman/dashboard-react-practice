@@ -1,1 +1,1 @@
-# react-dashboard
+# A project for React practice
